@@ -8,7 +8,9 @@ This is the code challenge for candidates of Team Unity. This package is simply 
 
 # Start
 
-Open a command prompt then change directory to `unity_code_challenge`, which you just cloned. On windows, run:
+Open a command prompt then change directory to `unity_code_challenge`, which you just cloned.
+
+On windows, run:
 ```
 node.exe node_modules\http-server\bin\http-server
 ```
