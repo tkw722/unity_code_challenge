@@ -22,4 +22,4 @@ On Mac/UNIX, run:
 
 # Usage
 
-Access the local site at `localhost:8080/public`
+Access the local site at `localhost:8080`
