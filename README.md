@@ -12,12 +12,12 @@ Open a command prompt then change directory to `unity_code_challenge`, which you
 
 On Windows, run:
 ```
-node.exe node_modules\http-server\bin\http-server
+node.exe node_modules\http-server\bin\http-server -o
 ```
 
 On Mac/UNIX, run:
 ```
-./node node_modules/http-server/bin/http-server
+./node node_modules/http-server/bin/http-server -o
 ```
 
 # Usage

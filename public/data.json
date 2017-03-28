@@ -1,1 +1,32 @@
-[{ "Name": "Kenneth Woodward", "Phone": "1-149-571-4433", "DOB": "1960/12/01" }, { "Name": "Barrett Morris", "Phone": "1-404-146-9173", "DOB": "1980/11/20" }, { "Name": "Xenos Bonner", "Phone": "1-592-459-4419", "DOB": "1973/8/11" }, { "Name": "Burke Lopez", "Phone": "1-813-463-9166", "DOB": "1952/03/20" }, { "Name": "Erasmus Sosa", "Phone": "1-935-805-2193", "DOB": "1952/03/20" }, { "Name": "Kenneth Woodward", "Phone": "1-149-571-4433", "DOB": "1981/01/30" }]
+[
+  {
+    "Name": "Kenneth Woodward",
+    "Phone": "1-149-571-4433",
+    "DOB": "1960/12/01"
+  },
+  {
+    "Name": "Barrett Morris",
+    "Phone": "1-404-146-9173",
+    "DOB": "1980/11/20"
+  },
+  {
+    "Name": "Xenos Bonner",
+    "Phone": "1-592-459-4419",
+    "DOB": "1973/8/11"
+  },
+  {
+    "Name": "Burke Lopez",
+    "Phone": "1-813-463-9166",
+    "DOB": "1952/03/20"
+  },
+  {
+    "Name": "Erasmus Sosa",
+    "Phone": "1-935-805-2193",
+    "DOB": "1952/03/20"
+  },
+  {
+    "Name": "Kenneth Woodward",
+    "Phone": "1-149-571-4433",
+    "DOB": "1981/01/30"
+  }
+]
